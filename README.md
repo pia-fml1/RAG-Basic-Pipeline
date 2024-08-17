@@ -21,7 +21,7 @@
  1. Prerequisites
     - Git
     - Command line familiarity
- 2. Clone the Repository: 
+ 2. Clone the Repository
  3. Create and Activate Virtual Environment (Recommended)
     - `python -m venv venv`
     - `source venv/bin/activate`
